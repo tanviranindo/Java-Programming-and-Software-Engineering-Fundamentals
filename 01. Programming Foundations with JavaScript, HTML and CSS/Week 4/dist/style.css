@@ -1,0 +1,25 @@
+body {
+  background-color:lightblue;
+}
+
+h1 {
+  font-size:20pt;
+  font-family: Calibri;
+}
+
+h2 {
+  font-size:18pt;
+  font-family: Calibri;
+}
+
+canvas {
+  height:200px;
+  border:1px solid black;
+  margin:10px;
+}
+
+input {
+  font-size:14pt;
+  font-family: Calibri;
+  margin:5px;
+}

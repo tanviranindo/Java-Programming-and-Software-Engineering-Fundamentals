@@ -1,0 +1,20 @@
+ <h1> Practice 5 Green Screen</h1>
+
+<script src="https://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js">
+</script>
+
+<canvas id="fgcan"> </canvas>
+
+<canvas id="bgcan"> </canvas>
+
+<canvas id="outputcanvas"> </canvas>
+
+<p>
+  Filename
+  <input type="file" multiple="false" accept="image/*" id="fgfile" onchange="loadForegroundImage()">
+  <input type="file" multiple="false" accept="image/*" id="bgfile" onchange="loadBackgroundImage()">
+</P>
+<p2>
+  <input type="button" value="Create Composite" onclick="doGreenScreen()">
+  <input type="button" value="Clear Canvases" onclick="clearCanvas()">
+</p2>

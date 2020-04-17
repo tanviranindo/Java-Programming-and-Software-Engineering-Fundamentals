@@ -1,0 +1,23 @@
+div {
+  font-family:arial;
+  font-size:12pt;
+  width:150pt;
+  padding:5pt;
+  margin:5pt;
+}
+
+.orangeback {
+  background-color:orange;
+}
+
+.fuchsiaback {
+  background-color:fuchsia;
+}
+
+.greenback {
+  background-color:lightgreen;
+}
+
+.blueback {
+  background-color:lightblue;
+}

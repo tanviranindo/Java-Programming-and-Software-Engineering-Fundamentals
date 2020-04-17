@@ -1,0 +1,19 @@
+h1 {
+  font-family:Arial;
+  color:dimgray;
+}
+
+canvas {
+  width: 300pt;
+  height: 200pt;
+  margin: 10px;
+  border: 1px solid lightgray;
+}
+
+input {
+  font-size: 20pt;
+}
+
+.orangeback {
+  background-color: orange;
+}
